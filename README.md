@@ -19,7 +19,7 @@ in the U.S. using exploratory data analysis and linear regression modeling.
 ## How to Run
 
 **Easy — Run in browser (no setup required):**  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KareenaGoyalData/US-medical-insurance-costs/blob/main/U_S_Med_insurance_costs_portfolioproj.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KareenaGoyalData/US-medical-insurance-costs/blob/main/us_medical_insurance_costs.ipynb)
 
 **Local — Run in Jupyter Notebook:**  
 1. Clone this repository
