@@ -17,19 +17,14 @@ in the U.S. using exploratory data analysis and linear regression modeling.
 - Jupyter Notebook
 
 ## How to Run
-1. Clone this repository
-2. Place `insurance.csv` in the same folder as the notebook
-3. Open `U_S_Med_insurance_costs_portfolioproj.ipynb` in Jupyter Notebook
-4. Run all cells from top to bottom
 
-
+**Easy — Run in browser (no setup required):**  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KareenaGoyalData/US-medical-insurance-costs/blob/main/U_S_Med_insurance_costs_portfolioproj.ipynb)
 
-Or run locally:
+**Local — Run in Jupyter Notebook:**  
 1. Clone this repository
-2. Place `insurance.csv` in the same folder as the notebook
-3. Open `U_S_Med_insurance_costs_portfolioproj.ipynb` in Jupyter Notebook
-4. Run all cells from top to bottom
+2. Open `U_S_Med_insurance_costs_portfolioproj.ipynb` in Jupyter Notebook
+3. Run all cells from top to bottom
 
 ## Data Source
 Dataset: [U.S. Medical Insurance Costs](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
